@@ -1,5 +1,24 @@
 # Introdução a Redes Neurais
 
+<p>
+
+![Python](https://img.shields.io/badge/Python-Linguagem%20de%20Programação-3776AB?style=flat-square&logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter)
+![Pandas](https://img.shields.io/badge/Pandas-Manipulação%20de%20dados-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Operações%20matemáticas-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualização%20de%20dados-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Faker](https://img.shields.io/badge/Faker-Geração%20de%20dados-FFB300?style=flat-square&logo=faker&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Redes%20neurais-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Interação%20com%20Sistema-3B8AC4?style=flat-square&logo=gnu-bash&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-Salvar%20Modelos-0A66C2?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Estatísticas%20Gráficas-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Visão%20Computacional-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+</p>
+
+
 ## Descrição
 
 Este repositório apresenta conteúdos introdutórios sobre redes neurais artificiais, abordando tanto a teoria quanto a prática.
